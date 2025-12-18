@@ -1,0 +1,373 @@
+# The purpose of this sheet is to record each species present in each field at the time of monitoring,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"# Each species found at the property is listed once, followed by characteristics of that species (Invasive, native, life form)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"# Columns exist for each field. Where a species was found in a field is indicated with an x if present, and an f if present and flowering (or having recently flowered/about to flower). Empty cells represent species not found in that field",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+# ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+# ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Species Name,Common Name,Life form,Invasive,Native,Notes,Wilson,Playground Pond,Plains Woods North,Jimmy's Wet Meadow,Long Meadow,Broad Meadow Dry,GP1A,GP8C,Long Causeway,Pond,GP1B,Williams Central,GP2A,Briar,GP2B,Plains,Lower Underhill,Underhill,Underhill Wet Meadow,GP4A,GP8B,Barberry Woods,GP3,Sunset Hill,Lower Triangle,Upper Triangle,Williams 1A,Lower Barberry,GP4B,Lamson Middle,GP5A,Horse,GP4C,POW West,GP5C,GP5D,GP6A,GP7A,GP8A,GP7,Lamson Hill,GP6C,Drainage Wet,GP5B,GP6B,Sunset Field,Playground,Lamson North,Drainage Dry,Williams West,Leo's,Bull
+Anthriscus sylvestris,Wild Chervil,Forb,x,,,f,f,f,f,,f,x,f,,f,,,,x,x,f,x,x,,,,x,x,f,,x,,,,,x,x,,x,,,,x,x,x,,x,x,,,,x,,,x,f,x
+Berberis thunbergii,Japanese barberry,Wood,x,,,,x,x,f,,,,,,,,,,,x,,,x,,,,x,x,,x,x,x,,,,,,x,x,,x,,,x,,,x,x,,,,,,,x,,
+Celastrus orbiculatus,Bittersweet,Wood,x,,,x,x,f,x,x,,x,x,,x,x,,x,,x,,x,x,x,x,x,x,x,,x,x,x,x,x,x,,x,x,x,,x,x,,x,x,,x,,x,,x,x,,,x,x,x
+Cirsium vulgare,Bull Thistle,Forb,x,,,,,,,,,,,,,f,,x,,x,,,f,f,f,,f,f,x,x,x,x,,f,x,f,x,f,,,,x,x,f,f,,f,x,,,,,,,,,x
+Cynanchum louiseae,Black Swallowwort,Forb,x,,,f,,,,x,,,,,,,,,,,,,,,x,,x,x,,,,,,,,,,,,,,x,,,,,,,,,,,,,,x,
+Eleagnus umbellata,Autumn Olive,Wood,x,,,,x,,x,,,,x,,,,,,,,,,,x,,,,x,,,,,,,,,,x,,,,,,,,,,,x,,,,,,,,
+Frangula alnus,Glossy / Alder Buckthorn,Wood,x,,,,f,x,f,f,x,,f,,,x,f,x,,x,,,x,,x,x,,x,,x,x,,x,,,,x,x,,x,x,,x,x,x,,,x,x,x,,,,,,,x
+Iris pseudacorus,Yellow Flag,Forb,x,,,,f,,f,,,,,,,,,,,,,x,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,
+Lonicera Japonica,Japanese Honeysuckle,Wood,x,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,
+Lonicera morrowii,Morrow's Honeysuckle,Wood,x,,,,x,f,,,,,,,,,,,,,,,x,,,,x,x,,,x,,,,,,,,x,,,,x,,,,,,,,,,,,,,
+Lythrum salicaria,Purple loosestrife,Forb,x,,,,x,x,x,x,x,x,x,x,x,x,x,f,x,x,,f,f,f,,,x,f,x,x,x,x,x,f,f,f,x,,,f,x,,,f,x,x,x,f,f,f,,,,,,,x
+Phalaris arundinacea,Reed Canary Grass,Grass,x,,,f,f,f,f,f,f,,f,f,f,x,f,f,f,,x,x,x,x,,x,x,,f,x,x,x,x,,f,x,f,,,x,,x,,,x,f,x,x,,x,,f,x,x,x,x,x
+Phragmites australis,Common Reed,Grass,x,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rosa multiflora,Multiflora Rose,Wood,x,,,f,f,f,f,f,f,x,f,,f,x,f,x,x,f,,x,x,x,,x,x,x,f,x,x,x,f,x,x,x,f,x,x,,x,f,x,x,x,,x,,x,x,f,x,,x,x,x,x
+Vincetoxicum rossicum,Pale Swallowwort,Forb,x,,,f,,f,,,,,,,,,,,,,,,,,,,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Acalypha wilkesiana,Common Copperleaf,forb,,,,,,,,,,,,,,,,,,,,,,x,,,,,,f,x,,,,,,,,x,,,,f,x,f,,f,,,,,,,,,,
+Acer platanoides,Norway Maple,Wood,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,
+Acer rubrum,Red Maple,Wood,,x,,,,,,x,,,,,,,,,,,,,x,,,,s,,,x,x,,x,,,,,,,,,,,,,,,,,,,,,,,,x
+Acer saccharinum,Silver Maple,Wood,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Acer saccharum,Sugar Maple,Wood,,x,,,,,x,,,,,,,,x,,x,,,,,,,x,,,,,,x,x,,,,,,x,,,,,,,,,x,,,,,,,,,
+Acer sp.,Maple sapling,Wood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,x,x,x,,,,,,,,,
+Achillea millefolium,Yarrow,Forb,,x,,f,f,,f,f,,,,,,,,,,f,,,f,,x,,x,f,,,,x,,,,,,,x,,f,,,x,,,x,,,,f,,,,,,
+Acornus americanus,Several-veined Sweetflag,Grass,,x,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agrostis capillaris,Common / colonial bentgrass,Grass,,,,,,,,,,,,,,,,x,,,,,,,,,x,,,,x,,,,,,f,,,,,,,x,x,,x,,,,,,,x,x,,x
+Agrostis gigantea,Redtop Bentgrass,Grass,,,,f,f,,,f,f,,x,,,,,x,,,,,x,x,f,x,,x,,x,x,x,,x,,,,f,,,f,,x,x,x,,x,x,x,x,,,,,,,
+Agrostis scabra,Rough Bentgrass,Grass,,x,,f,,,,,,,,,,,f,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agrostis stolonifera,Creeping Bentgrass,grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,x,,,,,,,,,
+Ailanthus altissima,Tree of Heaven,Wood,,,,,,,,,,,,,,,,,,,,,,,,,x/s,"x, s",f,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alliaria petiolata,Garlic Mustard,Forb,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,x,
+Allium canadense,Wild Garlic,Forb,,x,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alnus incana,Grey alder,Wood,,,,,,,,,,,,,,,,,,,,,,,,,x/s,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alnus serrulata,Smooth Brome alder,Wood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,
+Alnus sp.,Alder,Wood,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alopecurus pratensis,Field Meadow-foxtail,Grass,,,,,,,f,,f,,,,f,,,,,f,,,,,,,,,f,,,,x,,f,,,,,,,,,,,,,,,,f,,x,f,,,
+Amauropelta noveboracensis,New York Fern,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,x,,,,,,,,,,,,,,,,,,,,,,,,x,,
+Ambrosia artemisiifolia,Common Ragweed,Forb,,,,,,,,,,,,,,,,,,,,,,,f,,x,,,f,x,,,,,,,,,,,,,x,,,,,,,,,,,x,,x
+Anthemis cotula,Stinking Chamomile,Forb,,,,,,,,,,,,,,f,,,,,,,,,x,,,,f,,,,,,,,x,,,,,,,,,,,,,,f,,,,,,
+Anthoxanthum odoratum,Sweet Vernal Grass,Grass,,,,f,f,f,f,,f,x,f,,,x,f,x,x,x,f,x,x,x,x,x,,x,x,,,,f,x,f,x,x,x,,x,x,f,x,,x,f,,,x,x,x,x,x,x,x,x,
+Apios americana,Common Ground-nut,Forb,,x,,,x,x,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Arctium lappa,Greater Burdock,Forb,,,,,,,,,,,,,,,,x,,x,,,f,,x,f,x,f,x,,x,,x,,,x,x,x,,,,x,f,x,x,,x,,,,x,,,,,,x
+Arctium minus,Common / Lesser Burdock,Forb,,,,x,,,,,,x,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,
+Arisaema triphyllum,Jack-in-the-pulpit,Forb,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aristida sp.,Threeawn grass / wiregrass unk. sp.,Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,
+Arrhenatherum elatius,Tall Oat Grass,Grass,,,,f,,f,,,f,,f,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,
+Artemisia vulgaris,Common Mugwort,Forb,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,x,,,,,,,,,,,,
+Asclepias incarnata,Swamp Milkweed,Forb,,x,,,,,,,x,x,,,x,x,x,f,,,,,,f,,,,,x,,x,x,,,,x,,,,f,,,,,,,,x,f,f,,,,,x,,
+Asclepias syriaca,Common Milkweed,Forb,,x,,x,,,x,x,x,,x,,x,x,x,,x,f,x,f,x,x,x,x,x,x,f,x,x,x,x,x,f,,f,x,,,x,x,,x,x,x,x,,x,f,f,,x,x,x,,x
+Athyrium angustum,Northern Lady Fern,Forb,,x,,,,,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,
+Atropa bella-donna,Deadly nightshade,Wood,,,,,,,,,,,,,,,,,,,,,,,,f,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Baptisia aberrans,Eastern wild indigo,Forb,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Barbarea vulgaris,Bitter Wintercress,Forb,,,,x,,,,,f,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x
+Berberis vulgaris,European Barberry,Wood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,x,,,,,,,,,,,,
+Bidens cernua,Nodding Beggarticks,Forb,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bidens connata,Purplestem Beggarticks,Forb,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,
+Bidens frondosa,Devil's Beggarticks,Forb,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,f,f,,,f,,,,,,,,,,f
+Bromus hordeaceus,Soft Brome,Grass,,,,,,x,,,,x,,,,x,,,,,,,,,,,,x,,x,,,,,,,,,,,,,,,,,,,,,,,f,,,,
+Bromus inermis,Smooth Brome Brome,Grass,,,,f,f,f,f,,f,,f,,,,,,f,f,,x,x,,x,,x,x,f,,x,x,f,x,f,x,f,f,,,x,f,x,x,x,f,x,,x,,f,f,,x,,,
+Bromus tectorum,Downy Brome,Grass,,,,,,,,,,,,,,,,,,,,,,,,x,,x,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,
+Calamagrostis canadensis,Canada Bluejoint grass,Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,x,,,,,,,,,,,,x,,,,,,,,,
+Calamagrostis sp.?,,Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Calystegia sepium,Hedge / False Bindweed,Forb,,x,,,,,,,x,,,f,,,x,,,,,f,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,
+Capsella bursa-pastoris,Shepherd's Purse,Forb,,,,,,,,,,,,,,,,,,,x,,x,,,,,,f,,,x,,,,,,,,,,,,,,,,,,,f,x,x,,,,
+Carex sp.?,unknown sedge,Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,x,,,,,,f,,,x
+Carex annectens,Yellow-fruited Sedge,Grass,,x,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,
+Carex comosa,Bottlebrush sedge,Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carex crinita,Fringed Sedge,Grass,,x,,,,f,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carex echinata,Star Sedge,Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,
+Carex gracillima,Graceful Sedge,Grass,,x,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carex lasiocarpa,Woolly-fruited sedge,Grass,,x,,,f,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carex lurida,Sallow Sedge,Grass,,x,,,,,f,,,,f,f,f,f,,f,,,,x,,,x,,x,,f,f,x,,f,x,,x,,,,f,,,,,x,,x,,f,x,,,,,,,
+Carex nigra,Black sedge,Grass,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,
+Carex pallescens,Pale Sedge,Grass,,x,,,,,,,f,,,,,,,f,,x,,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carex pensylvanica,Pennsyvania sedge,Grass,,,,,,,,,,,,,,,,,,,,,x,,,,x,,,,,,,,,,,x,,,,,,,,,x,,,,,,,,x,,
+Carex scoparia,Pointed Broom Sedge,Grass,,x,,,,f,f,f,f,x,f,f,f,f,f,f,,,,,,f,,,f,??,f,x,,,f,x,f,x,f,,,f,,f,,,x,,x,x,,f,,,,,,,
+Carex stipata,Awl-fruited Sedge,Grass,,x,,,,,f,f,f,x,,f,,f,f,,,,,,x,,,x,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,
+Carex stricta,Tussock Sedge,Grass,,x,,,f,,,f,f,,f,f,f,,f,f,,,,x,,,,,,,,,,x,,,,,,,,,,f,,,,,,x,,,,,,f,x,,
+Carex swanii,Swan sedge,Grass,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carex vulpinoidea,Common Fox Sedge,Grass,,x,,f,,,,f,x,,,,f,f,f,f,,f,,x,x,x,,,f,,f,f,x,,,x,f,x,f,,x,f,,,,,x,,,x,,f,,,,,x,,x
+Carya ovata,Shagbark hickory,Wood,,,,,,,,,,,,,,,,,,,,,x,s,,x,x/s,,,,x,,x,,,x,,,x,,,,,x,,,,,,,,,,,,,x
+Carya sp.,Hickory seedling,Wood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,
+Centaurea nigra,Black Knapweed,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,x,,,,,,,,,,
+Centaurea stoebe,Spotted Knapweed,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,x,f,,,,,,,,,,,,,,,,,,,,,,,,,
+Cerastium fontanum,Mouse ear Chickweed,Forb,,,,,,,,,,,,,,,f,,f,,f,x,,,,,x,x,,,,,,,x,,,,,,,,,f,,,,,x,,,x,,f,,,
+Chamaecyparis thyoides,Atlantic White Cedar,Wood,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Chenopodium album,Pigweed / Lamb's quarters,Forb,,,,,,,,,,x,,,,,,,,,,,x,,,,x,,,,,,x,,,,,,,,,,,,,,,,,,,,x,,,,
+Chelone glabra,White Turtlehead,Forb,,,,,,,,x,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cichorium intybus,Common Chicory,Forb,,,,,,,,,,,,,,,,,x,,,,,,f,,,f,,,f,x,,,f,,,,,,,,,,,,,,,,,,,,,,
+Cicuta bulbifera,Bulbet-bearing Water-hemlock,Forb,,x,,,,,,,x,,,,,,,f,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,
+Cicuta maculata,"Water Hemlock, spotted",Forb,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,
+Circaea lutetiana,Broadleaf Enchanter's nightshade,Forb,,,,,,,,,,,,,,,,x,,x,,,x,,,,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cirsium arvense,Creeping Thistle,Forb,,,,,,,,,,x,,,,,,x,,,,,f,,,,x,f,f,,,,,f,,,,,,,f,,,,x,,x,x,,,,,,,,,
+Clethra alnifolia,Coastal Sweet-pepperbush,Wood,,x,,,,,,,,,,x,,,,,,,,,,,,,,,,f,x,,,,,,,,,,,,,,,,,,,,,,,,,,
+Commelina communis,Dayflower,Forb,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Convallaria majalis,Lily of the valley,Forb,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Convolvulus arvensis,Field bindweed,Forb,,,,,,,,,,,,,,,,,,,,,f,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Coreopsis major,Greater tickseed,Forb,,x,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,
+Cornus amomum,Silky dogwood,Wood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,
+Corylus americana,American Hazelnut,Wood,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Crataegus monogyna,Common Hawthorn,Wood,,,,,,,,,,,,,,x,,x,,x,,x,x,x,x,x,x,x,,x,x,,x,x,x,x,,x,x,x,x,x,x,x,x,,x,x,x,f,x,,,,,x,
+Crataegus monogyna,Hawthorn sapling,Wood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,x,,,,,,,,,,x
+Cyperus strigosus,Straw colored flatsedge,Grass,,,,,,,,,,,,,,,,x,,,,,,f,f,,,,,f,x,,,,,,,,,,,,,,f,,,f,,,,,,,x,,
+Dactylis glomerata,Orchard Grass,Grass,,,,f,f,x,f,f,f,,,,,,f,x,f,f,f,,x,x,,f,x,x,f,x,x,x,f,x,,x,f,x,x,,x,f,x,x,x,x,x,,x,,x,x,f,f,x,f,x
+Dalea multiflora,Roundhead prairie clover,Forb,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Danthonia spicata,Poverty Oatgrass,Grass,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Daucus carota,Queen Anne's Lace,Forb,,,,x,,x,x,,x,,,,,x,x,x,x,,x,f,f,f,f,f,f,f,x,f,f,f,x,f,f,f,x,f,x,,f,x,f,f,f,,f,f,f,,f,f,,x,,x,f
+Dianthus armeria,Deptford pink,Forb,,,,,,,,,,,f,,,f,,f,,,x,,,,,,,x,,,f,,,,,,,,,,,,f,f,,,,,,,,,,,,,
+Digitaria sanguinalis,Hairy Crab grass,Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,x,x,,,,,,,x,,,,,,,,,,,,,,,,x,,
+Digitaria sp.,Crab grass,Grass,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Echinochloa crus-galli,Barnyard grass,Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,x,,x
+Eleocharis acicularis,Needle spikesedge,Grass,,,,,,,,,,,,,,x,,x,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,
+Eleocharis obtusa,Blunt spikesedge,Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,
+Eleocharis sp.,Spikesedge,Grass,,,,,,,f,f,f,,f,x,f,,f,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Elymus repens,Quack Grass,Grass,,,,f,,,,,f,,,,,,,f,f,f,,,x,x,x,x,x,x,f,x,,x,,x,,x,f,x,,,x,f,x,x,x,x,x,x,x,,f,,,x,,,x
+Elymus riparius,Riverbank Wild rye,Grass,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Elymus sp.,Wheatgrass,Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,
+Elymus virginicus,Virginia wild ryegrass,Grass,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Epilobium coloratum,Cinnamon Willow Herb,Forb,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,,,,,,x,,,,,f,,,f,,,,,,,x,,f
+Equisetum arvense,Field Horsetail,Forb,,x,,,x,x,x,,x,,x,,,,x,x,,,,x,,x,,,,,,x,,x,,,,,,,,,,,,,,,,,,,,,,,,x,
+Eragrostis spectabilis,Purple love grass,Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,x,,,,,,,,,,,,
+Erechtites hieraciifolius,American burnweed,Forb,,,,,,,,,,,,,,,,x,,,,x,x,x,,x,x,x,,f,f,f,,x,,,,x,f,,,,f,,f,,x,f,x,,,,,,x,,f
+Erigeron annuus,Annual Fleabane,Forb,,,,,,,,,,,,,,x,,x,,,x,,,x,,,f,,f,f,,,f,,f,,f,,,,,,,,,x,,,,,x,,,,,x,
+Erigeron canadensis,Horseweed,Forb,,,,,,,,,,,,,,,,,,,,,x,,x,f,x,x,,x,x,x,,,,,,,x,,,,,x,,,,,,,x,,,,,,
+Erigeron strigosus,Daisy fleabane,Forb,,,,,,,,,,,,,,,,,,,,f,f,f,f,,x,f,,,x,,,f,,f,,,x,x,f,,,,f,,,,f,,,f,x,,,,
+Euonymus alatus,Winged spindle,Forb,,,,,,,,,,,,,,,,,,,,,x,,,x,,x,,,,,,,,,,,,,,,,x,x,,,,,,,,,,,,
+Euonymus fortunei,Fortune's spindle,Wood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,
+Eupatorium perfoliatum,Boneset,Forb,,,,,,,,,,,,,,,,x,,,,,,,,,,,x,,x,,,f,,f,,,,,,x,,,,,f,,,f,,,,,,,
+Eupatorium sessilifolium,Upland boneset,Forb,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Euphorbia cyparissias,Cypress Spurge,Forb,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,
+Eurybia divericata,White wood aster,Forb,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,
+Euthamia graminifolia,Flat-Topped / Grass-Leaved Goldenrod,Forb,,,,,,,,,,,,,,,,,,,,f,f,,,,f,f,,x,x,f,,f,,,,,f,,x,,,f,f,,f,,f,x,,,,,x,,f
+Eutrochium dubium,Coastal Plain Joe-pye Weed,Forb,,x,,,x,x,x,x,x,,x,x,,x,x,x,,,,f,,,f,,f,,,x,x,f,x,,,f,,,,x,,,,,f,,x,f,f,x,,,,,x,,x
+Eutrochium maculatum,Spotted Joe-pye Weed,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,f,,,,,,,,,,,,,,,,,
+Fallopia scandens,Climbing false buckwheat,Forb,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Festuca filiformis,Fine-leaved Sheep Fescue,Grass,,,,,,,,f,,,,,,,,x,f,,f,,x,,x,x,x,,,x,x,,,,,,,,,,,,,,x,,,,x,,,,,f,,,
+Festuca ovina,Sheep Fescue,Grass,,,,,,,,,,,,,,,f,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Festuca rubra,Red Fescue,Grass,,,,,f,f,f,,f,,,,,,,,,,,,x,x,x,,x,x,f,x,,,,x,,x,,x,x,,x,,x,,x,,,x,x,x,,x,,,x,,
+Fraxinus pennsylvanica,Green Ash,Wood,,x,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,
+Galium album,White Bedstraw,Forb,,,,,,x,f,,,x,f,,,x,,f,f,f,,,f,f,x,x,f,x,f,f,x,f,f,f,f,,f,f,f,,f,f,,f,f,,f,,x,,,f,f,,f,,x
+Galium mollugo,Whorled / Hedge Bedstraw,Forb,,,,f,,f,,,f,x,,,f,,f,,,,f,,,,f,,,,,,f,x,,,f,f,,,,,,f,,,,f,,,,,,,f,x,,f,
+Galium palustre,Marsh Bedstraw,Forb,,x,,,f,f,f,f,f,x,f,f,f,,f,x,,,,,,x,,,,,,,,x,,,,,,,,,,f,,,x,,,,,f,,,,,,,x
+Galium verum,Lady's Bedstraw,Forb,,,,,,,,,,,,,,f,,,,f,,,,,f,f,,f,f,x,,,,f,,,f,f,,,f,,,x,f,,,,f,,f,,,,,,
+Geranium maculatum,Spotted Crane's-bill,Forb,,x,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,
+Geum canadense,White avens,Forb,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,
+Glechoma hederacea,Ground Ivy / creeping charlie,Forb,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,f,,,
+Glyceria sp.,manna grass,Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,
+Glyceria canadensis,Rattlesnake manna grass,Grass,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,
+Glyceria grandis,American Manna Grass,Grass,,,,,,,,,,,,,,f,,f,,,,,x,,,,,,,,,,,,,,f,,,x,,,,,x,,,,,f,,,,,,,
+Glyceria striata,Fowl Manna grass,Grass,,,,,,,,,,,,,,,,f,,,,,,x,x,,,,,,,,,x,,x,f,,,,,,,,,,,,,,,,,,,,
+Hieracium sp.,Hawkweed sp.,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,f,x,,,,,,,,,,,,,,,,,,,,
+Hieracium caespitosum,Yellow Hawkweed,Forb,,,,f,f,,f,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,x,,,,,,,,,,
+Hieracium lachenalii,Common Hawkweed,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,f,f,,,,,,,,,
+Hieracium sabaudum,New England Hawkweed,Forb,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,f,,,,,,,,f,,,,,,f,,,,,,,,,,,,
+Hieracium umbellatum,Northern Hawkweed,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,x,,,,,,,,,,
+Holcus lanatus,Velvet Grass,Grass,,,,f,f,f,f,f,f,,,,,f,f,f,,,,x,x,x,,,f,,f,x,,,f,,,x,f,,x,,,,,,,,x,x,x,x,,,x,x,x,,x
+Houstonia caerulea,Azure bluet,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,
+Hypericum mutilum,Dwarf St John's wort,Forb,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,x,,
+Hypericum perforatum,Common St. John's-wort,Forb,,,,,,,,,x,,,,,x,,,,,,,f,,f,f,f,f,,f,x,,,f,,,,f,f,,f,,x,f,f,,f,,f,,,,,,,,
+Hypoxis hirsuta,Common Star-grass,Forb,,x,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ilex verticillata,Winterberry Holly,Wood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,
+Impatiens capensis,Jewelweed,Forb,,x,,,x,x,x,x,,,x,x,,x,x,x,,,,f,,,,,,,,f,x,,x,,,f,,,,,,,,,,x,,x,,,,,,,x,,f
+Inula ensifolia,Sword Leaved Inula,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,
+Iris species,Unknown Iris,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x
+Iris prismatica,Slender Blue Flag,Forb,,x,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iris versicolor,Northern Blue Flag,Forb,,x,,,,,f,,f,,,,,x,f,x,,,,x,f,,,,,,,x,,x,x,,,x,,,,,,,,,,,,,,x,,,,,x,,x
+Jacobaea vulgaris,Common Ragwort,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,f,,,x,,,,,,,
+Juglans nigra,Eastern Black walnut,Wood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,
+Juncus effusus,Common Soft Rush,Grass,,x,,f,f,f,f,f,f,,x,f,f,f,f,f,,f,,x,,f,,,f,x,f,x,,x,f,f,f,x,f,,,f,f,x,,x,x,x,x,x,f,f,,,,x,x,,x
+Juncus tenuis,Slender Path Rush,Grass,,x,,f,f,f,f,,x,,,,f,,f,x,f,f,,,f,x,x,,,f,f,f,x,f,f,x,f,x,x,f,,,,f,x,x,x,x,x,x,f,x,f,,,x,,,x
+Lactuca canadensis,Canada Wild Lettuce,Forb,,,,,,,,,,x,,,,,,,x,,,,,,,f,,,x,,,,,,,,,,,,,,,f,,,,,,,x,,,,,x,
+Lactuca muralis,Wall lettuce,Forb,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lactuca serriola,Prickly lettuce,Forb,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,f
+Lathyrus palustris,Marsh Pea,Forb,,x,,,,,,,x,,,,f,,f,,,,,x,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,x,,x
+Leonurus cardiaca,Motherwort,Forb,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,f,,,,,,
+Lepidium campestre,Field Peppergrass,Forb,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,
+Lepidium virginicum,Pepperweed,Forb,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Leersia oryzoides,Rice cut grass,Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,x,,,,,,,,,x,,,,,,,
+Lespedeza cuneata,Chinese bushclover,Forb,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Leucanthemum vulgare,Oxeye Daisy,Forb,,,,,,,,,f,,,,,f,,f,f,f,,x,,x,x,f,,f,,,x,x,f,x,f,,f,x,,,f,f,,,x,,x,,f,,,,x,,x,,
+Lilium philadelphicum,Wood Lily,Forb,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Linaria vulgaris,Butter-and-eggs / Toadflax,Forb,,,,x,x,,,,,,,,,,,,,x,,,f,x,f,f,f,f,x,,f,,,,,f,,x,f,,x,,f,f,f,,f,f,f,f,,f,,x,,,x
+Lobelia inflata,Indian Tobacco / puke weed,Forb,,,,,,,,,,,,,,,,,,,,f,f,,f,,,,,f,f,,,f,,,,,,,,,,,,,,,,,,,,,,,
+Lolium multiflorum,Annual Ryegrass,Grass,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,
+Lolium perenne,Perennial rye,Grass,,,,,,,,,,,,,,,,,,x,,,,,x,,,,,,,,,,,,,,x,,,,,,,,,x,,,,,,f,x,,x
+Lotus corniculatus,Bird's Foot Trefoil,Forb,,,,f,,f,f,,,x,f,,f,f,f,f,f,f,,,,,f,f,f,f,f,,f,,x,f,,f,,f,x,f,f,f,f,f,f,,f,x,f,f,f,f,,x,x,,x
+Lycopus americanus,American bugleweed,Forb,,,,,,,,,,,,,,,,x,,x,,f,,,,,,,x,f,f,x,x,f,,f,,,,f,f,x,,,f,,f,f,x,x,,,,,x,,x
+Lysimachia borealis,Northern Starflower,Forb,,x,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lysimachia terrestris,Swamp Candles,Forb,,,,,,,,,,,,,,f,,f,,,,,,,,,,,,,x,,,,,,,,,x,,,,,,,x,,x,f,,,,,,,
+Lysimachia quadrifolia,Whorled / yellow loosestrife,Forb,,x,,,,,,,,,,,,,,,,,,,,,,,f,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maianthemum canadense,Canadian May flower,Forb,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maianthemum racemosum,False Solomon's Seal,Forb,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Malus sp.,Apple,Wood,,,,x,,x,x,,x,x,,,x,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Malus sylvestris,Crab Apple,Wood,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,x,,,,,x,,,x,,,,,,,,,,,,,,x
+Malus sylvestris,Crab apple sapling,Wood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,
+Medicago sativa,Alfalfa,Forb,,,,,,,,,,,,,,,,,x,,x,,f,,,,,,,,,,,,f,,x,,,,,,,x,,,,,,,,f,x,,,x,
+Mentha arvensis,Field mint,Forb,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mentha canadensis,American Wild Mint / Canada mint,Forb,,x,,,,,,,x,x,f,,,,x,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,f,,f
+Mentha spicata,Spearmint,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,
+Mimulus ringens,Allegheny Monkeyflower,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,f,,,,,,,,,,,,,,,,,
+Monotropa uniflora,Ghost pipe,Forb,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Morella caroliniensis,Small Bayberry,Wood,,x,,,,,x,x,,x,,,,,f,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,
+Morus sp.,Mulberry,Wood,,,,,,,,,,,,,,,,,,,,,,,,,s,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Muhlenbergia schreberi,Nimblewill grass,Grass,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,
+Myosotis arvensis,Field forget-me-not,Forb,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Myosotis laxa,Bay Forget-me-not,Forb,,,,,,,,,,,,,,f,,x,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,f,,,,,,,
+Onoclea sensibilis,Sensitive Fern,Forb,,x,,x,x,x,x,x,x,,x,x,x,x,x,x,x,x,,x,,x,,,x,,,x,x,x,x,,x,x,x,,x,x,,x,,,,x,x,x,x,x,,,,,,,x
+Ornithogalum umbellatum,Star of Bethlehem,Forb,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Osmunda regalis,Royal Fern,Forb,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Osmundastrum cinnamomeum,Cinnamon Fern,Forb,,x,,,,,,x,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Oxalis corniculata,Creeping woodsorrel,Forb,,,,,,,,,,,,,,,,,,,,,,,,,x,,f,,,,x,,,,x,,,,,,,,,,,,,,,,,,,,
+Oxalis dillenii,Slender yellow woodsorrel,Forb,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,
+Oxalis stricta,Common Yellow Wood Sorrel,Forb,,x,,,f,x,f,f,f,,x,,,,f,f,f,x,,x,f,,,x,x,x,,f,x,,f,x,,f,,x,x,,,f,,f,f,,f,,x,f,f,x,,,x,,f
+Panicum virgatum,Switch Panicgrass,Grass,,x,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,f,,,,,f,,,,,,
+Parthenocissus inserta,Thicket-creeper,Wood,,x,,,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,
+Parthenocissus quinquefolia,Virginia creeper,Wood,,x,,,x,x,,,,,x,,x,,,,,x,,x,,,,x,x,x,,x,x,x,,,x,,x,,x,,x,,x,x,x,,,,,,,,,,,,x
+Peltandra virginica,Green Arrow-arum,Forb,,x,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Persicaria amphibia / Polygonum amphibium,Water Smartweed / Knotweed,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,x,f,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Persicaria hydropiper,Water Pepperweed / water-pepper smartweed,Forb,,,,,,,,,,,,,,,,x,,,,x,,,x,,,,,x,,,,x,,x,,,,x,,,x,x,f,,f,f,x,x,,,,,,,x
+Persicaria longiseta,Oriental lady's-thumb Smartweed,Forb,,,,,,,,f,,,,,,,,x,,,,,f,,f,,,,,,,,,,,f,x,,x,,,,f,,f,,,x,,,f,,,,x,,x
+Persicaria pensylvanica,Pennsyvania Smartweed,Forb,,,,,,,,,,,,,,x,,,,,,,f,x,,,f,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,
+Persicaria sagittata,Arrow-leaved Tearthumb,Forb,,x,,,x,x,x,x,x,,,f,x,,x,x,,,,f,,,,,x,,,f,f,,x,f,,f,,,,x,,,,f,f,,f,x,f,x,,,,,x,,f
+Phleum pratense,Common Timothy,Grass,,,,f,,f,,,,,,,x,f,,f,,f,,x,x,x,x,x,x,x,f,x,x,x,x,x,,x,f,f,,f,f,,x,x,x,,x,x,f,x,f,f,,,x,,x
+Physalis heterophylla,Clammy Ground cherry,Forb,,,,,,,,,,,,,,,,,,x,,,,,,,,f,,,,,,,,,,x,,,,x,,x,x,,,,,,,,,,,,
+Phytolacca americana,Pokeweed,Forb,,,,,,,,,,,,,,,,,,,,,f,,,x,x,f,,x,x,,x,,,x,,,x,,x,,x,x,x,,x,x,x,,,,,,,,x
+Pilosella officinarum,Mouse ear hawkweed,Forb,,,,,,,,,,,,,,,,,,,,,,,x,x,,,,,,,,,,,,x,,,,,,,x,,,,,,,,f,,,,
+Picea abies,Norway Spruce mature,Wood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x
+Pinus strobus,White Pine mature,Wood,,x,,,x,,,,,x,,,,,,,,x,,,x,,,,x,x,,x,,,x,,,,,,,,x,,x,x,,,x,x,,,,,,,,,
+Pinus strobus,White Pine seedling,Wood,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Plantago lanceolata,English Plantain,Forb,,,,f,f,f,,,f,,,,f,f,f,f,f,f,f,f,f,f,f,x,f,f,f,f,f,f,f,f,f,f,f,x,f,,x,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f
+Plantago major,Common / Broadleaf Plantain,Forb,,,,,,x,,,,,,,,,,,,,,,x,,f,,f,,,x,f,,,,,f,x,,x,,,,x,,f,,,,,,,,,,x,,x
+Platanthera lacera,Ragged fringe orchid,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,
+Poa pratensis,Fowl Blue Grass,Grass,,x,,,,,,,,,,f,f,,f,,,,,x,,f,,,,x,,x,,,,,,,,,,x,x,,,,,,,x,x,,,,,f,,,x
+Kentucky Blue Grass,Kentucky Blue Grass,Grass,,,,f,f,f,f,f,,,f,f,,f,f,x,f,f,f,x,x,x,x,x,x,x,f,x,x,x,f,,f,x,x,x,x,,x,f,,x,x,f,x,x,x,x,f,,f,,x,f,
+Poa trivialis,Roughstalk Blue Grass ,Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,
+Polygonum aviculare,Prostrate knotweed,Forb,,,,,,,,,,,,,,,,,,,,,,,x,,f,,,,,,,,,f,,,,,,,,x,,,,,,,,,,,,,f
+Portulaca oleracea,Common Purslane,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,
+Potentilla argentea,Silver cinquefoil,Forb,,,,,,,,,,,,,,,,,,,,,,,f,f,,f,,,,,,,,,,,,,,f,,x,,,,,f,,,,,,,,
+Potentilla recta,Sulfur Cinquefoil,Forb,,,,f,x,,x,,f,,x,,f,,,,,f,f,,x,,f,x,,f,f,x,,x,f,x,,x,,f,,,f,f,x,x,f,x,x,,f,,f,f,,x,,f,
+Potentilla reptans,Creeping Cinquefoil,Forb,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,x,,,,,,,,,x,,,,,,,,,,,,
+Potentilla simplex,Common Cinquefoil,Forb,,x,,,,,f,f,,,,,,,f,,,,,,,,,,f,,f,,,,x,x,,,,x,x,x,x,f,x,x,,,x,,x,,f,,,,,,
+Prunella vulgaris,Common Self Heal,Forb,,,,,,,,,,,,,,f,,f,,,,,,,,,,f,,,,,,,,f,,,,f,f,,,,,,f,,f,,,,,,f,,
+Prunus serotina,Black Cherry,Wood,,,,,,,,,,x,,,,,,,,x,,x,x,,x,,x,x,,,,,,x,,,,x,,,x,,,x,,,x,,,,,,,,,,
+Prunus serotina,Black Cherry seedling,Wood,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pteridium aquilinum,Bracken Fern,Forb,,x,,,x,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,
+Quercus alba,White Oak mature,Wood,,x,,,x,x,,,,x,,,,x,,,,,,,x,,,x,,,,,x,x,,,,x,,,,,,x,,x,x,,x,,x,,,,,,,,
+Quercus alba,White Oak seedling,Wood,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,x,,,,,,x,x,,,,x,,,,,,,,,,,x,,,
+Quercus rubra,Red Oak mature,Wood,,,,,,,,,,,,,,,,x,,x,,,x,,,x,x,x,,x,,,,,,,x,x,x,,x,,x,x,x,,x,,x,,,,,,,,
+Quercus rubra,Red Oak seedling,Wood,,,,,,,,,,,,,,,,,,,,,,,,x,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Quercus velutina,Black Oak mature,Wood,,x,,,,,,,,,x,,,,,,,,,,,x,,,x,x,,,,,,,,,,,,,,,,x,x,,x,,,,,,,,,,
+Quercus velutina,Black Oak seedling,Wood,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ranunculus acris,Tall / Meadow Buttercup,Forb,,,,,f,,f,f,f,,,,,x,f,x,,,,,,x,,,,,x,x,x,x,f,,x,f,,,,,,,,x,,x,x,x,,f,f,,f,x,x,f,x
+Ranunculus bulbosus,Bulbous Crowfoot / Buttercup,Forb,,,,,,f,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,x,,,x,,x,,,x,,,,,,,f,,,
+Ranunculus repens,Creeping Buttercup,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,x,,,,,,f,x,,
+Raphanus raphanistrum,Wild Radish,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,
+Rhamnus cathartica,Common / European Buckthorn,Wood,,,,,,,,,,,,,,,,,,,,x,,,x,,x,,,,,x,,,,,,x,,,x,,,,,,x,,,,,,,,,x,
+Rhamphospermum arvense,Field mustard,Forb,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,
+Rhinanthus minor,Little Yellow Rattle,Forb,,,,,f,,f,,f,,,,f,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rhus typhina,Staghorn sumac,Wood,,x,,,,,,,,,,,,,,,,,,,,,,,x,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x
+Rosa palustris,Marsh Rose,Wood,,x,,,x,,,,,,x,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rosa virginiana,Virginia Rose,Wood,,x,,,,,,x,x,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rubus allegheniensis,Common Blackberry,Wood,,x,,,f,f,f,,,,,,,,,,,x,,,x,,,,x,,x,,,,,,,,,,x,,,,,,,,,,,,f,,,,,f,
+Rubus flagellaris,Northern Dewberry,Wood,,x,,,f,f,f,f,,,f,,,,f,,,,,,x,,,,x,x,,x,x,,,,,,,x,x,,x,,x,x,x,,x,,,,,,,,x,,x
+Rubus hispidus,Swamp Dewberry,Wood,,x,,,,,f,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,x,,,,,,,,,,
+Rubus idaeus,Red Raspberry,Wood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x
+Rubus occidentalis,Black raspberry,Wood,,,,,,,,,,,,,,,,,,,,,x,,,x,x,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,
+Rudbeckia hirta,Black eyed Susan,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,
+Rumex acetosella,Sheep Dock / Sorrel,Forb,,,,f,,f,,,,x,,,,,,x,,f,,,,,,,x,x,f,,,,,,,,,x,,,,x,x,x,x,,,,,,,,,,,,
+Rumex crispus,Curly Dock,Forb,,,,f,f,f,x,,f,,,,,f,f,f,f,f,,x,x,x,x,x,x,x,f,x,x,x,f,x,f,f,f,x,x,x,,x,,x,x,f,x,x,x,f,f,,f,x,x,f,x
+Sagittaria latifolia,Common / Broadleaf Arrowhead,Forb,,x,,,,x,,x,x,x,,x,x,x,,f,,,,x,,,,,,,,,,,x,,,f,,,,x,,,,,,,,,,,,,,,,,
+Salix atrocinerea,Grey willow,Wood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,x,,
+Salix discolor,Pussy willow,Wood,,,,,,,,,,,,,,x,,x,,,,,,x,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,
+Salix lucida,Shining willow,Wood,,,,,,,,,,,,,,x,,x,,,,,,x,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,
+Salix purpurea,Purple willow,Wood,,,,,,,,,,,,,,x,,x,,,,,,x,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,
+Salix sericea,Silky willow,Wood,,,,,,,,,,,,,,x,,x,,,,,,x,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,
+Sambucus nigra,Black Elderberry,Wood,,x,,,f,x,,f,,,,,,f,,f,,,,x,x,,,,,,,,x,,,,,,,,,,,,,,,,,x,,,,,,,x,,x
+Sanguisorba canadensis,Canada Burnet,Forb,,x,,,,,,x,,,,,,,x,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,
+Sassafras albidum,Sassafras,Wood,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Schedonorus arundinacea,Tall Fescue,Grass,,,,f,,f,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,
+Schedonorus pratensis,Meadow Fescue,Grass,,,,,f,f,,f,f,,,,f,,f,f,,f,,,x,x,x,x,,,,,x,x,f,x,x,x,,,,,,x,x,x,x,f,x,x,x,x,,,,,x,,x
+Schizachyrium scoparium,Little Bluestem Grass,Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,
+Scirpus atrocintus,Black girdle bulrush,grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,
+Scirpus atrovirens,Dark Green Bulrush,Grass,,x,,,,,,x,f,,x,f,,f,f,f,,,,,f,f,x,,,x,,f,x,,f,f,f,x,f,,,f,,,,,x,,f,x,x,x,,,,,x,,x
+Scirpus cyperinus,Wool grass (Bulrush),Grass,,,,,,,,,,,,,,,,x,,,,,,x,,,,,,x,x,x,,f,,,,,,,,,,,,,,x,,,,,,x,,,
+Scirpus microcarpus,Panicled Bulrush,Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,
+Scorzoneroides autumnalis,Autumn Hawkbit,Forb,,,,,,,,,,,,,,,,,,,,,x,,f,,f,,,,,f,,,,,,,,,,,,,f,,,f,,,,,,f,f,,f
+Selaginella rupestris,Rock spike moss,Moss,,,,,,,,,,,,,,,,,,,,,,,x,x,,x,,,,,,,,,,x,,,,,,x,x,,x,x,x,,,,,,,,
+Setaria pumila,Yellow Foxtail,Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,x,f,,,,,,,f,,,,,,,,,x,,,,,,,x,,f
+Silene armeria,Garden Catchfly,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,
+Silene flos-cucli,Ragged Robin,Forb,,,,,,,,,f,x,f,,,,f,,,,f,,,,,,f,,,,,,,,x,,,,,,,,,,,,,,,,,,x,,,,
+Silene latifolia,White Campion,Forb,,,,,,,,,,,,,,,,,f,,f,f,x,,f,,f,,f,,,x,,,f,,f,,x,,,,,f,,x,,,,,,f,x,,,f,
+Silene vulgaris,Bladder Campion,Forb,,,,,,,,,,x,,,,,,,,,,f,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,
+Sisymbrium officinale,Hedge Mustard,Forb,,,,,,,,,,x,,,,x,,,,,,,x,,,,x,f,f,,,,,,,f,f,,,,,,,x,,,,,,,,,,,,,
+Sisyrinchium angustifolium,Narrow-leaved Blue-eyed-grass,Forb,,x,,,,,,f,f,,,,,f,f,f,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sisyrinchium atlanticum,Eastern Blue-eyed grass,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,f,f,,,,,,,
+Smilax glauca,Catbriar,Wood,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Smilax herbacea,Carrion-flower,Forb,,x,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Solanum dulcamara,Bittersweet Nightshade,Forb,,,,,f,,,,,,,,,x,f,,,,,,,,,,,,f,x,x,,,,,,,,,,,,,x,x,,x,,,,,,,,,,x
+Solidago altissima,Tall / Late Goldenrod,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,x,,,,,,,,f,,,,,,,,,,
+Solidago canadensis,Canada Goldenrod,Forb,,x,,,,x,,x,x,,,,,x,x,x,,x,,f,f,f,f,x,f,f,x,x,f,f,,f,x,f,x,f,,,x,x,,f,f,x,f,f,f,x,,,,,x,f,
+Solidago gigantea,Giant Goldenrod,Forb,,,,,,,,,,,,,,,,,,x,,f,f,f,,,f,x,,,x,f,x,f,x,f,,f,x,x,,x,x,f,x,,f,,f,x,,,,,x,,f
+Solidago juncea,Early Goldenrod,Forb,,x,,,,,x,,,,,,x,,,,,,,f,f,f,,,x,,,,,,,f,,,,,,f,,,,,,,,,f,,,,,,,,x
+Solidago nemoralis,Field Goldenrod,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,
+Solidago rugosa,Wrinkle-leaved Goldenrod,Forb,,x,,,x,x,x,,x,,x,,,x,,x,,x,,x,x,x,x,f,f,,x,f,x,f,x,x,x,f,x,,x,x,x,x,x,f,x,x,f,f,x,x,,,,,f,f,
+Solidago sp.,Goldenrod,Forb,,,,,x,,,x,x,,x,x,,,x,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,x,
+Sparganium eurycarpum,Great Bur-reed,Grass,,,,,,,,,f,,,f,f,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sphagnum sp.?,Sphagnum / peat moss,Moss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,
+Spiraea alba,White Meadowsweet,Wood,,x,,,,,,x,,,,x,,,,,,,,,,,,,,,,f,x,,,,,,,,,,,,,,,x,,x,,,,,,,,,
+Spiraea tomentosa,Rosy Meadowsweet,Wood,,x,,,,,,x,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stachys palustris,Marsh Woundwort / Marsh Hedge Nettle,Forb,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f
+Stellaria graminea,Grass-leaved starwort,Forb,,,,f,,f,f,,f,,x,,,,f,,,,f,x,,,,,,,,,,,,,,,,,,,,f,,,,,,f,,,,,,,,,
+Stellaria media,Starwort / Chickweed,Forb,,,,,,,,,,,,,,f,,f,,f,,x,,f,x,,f,,f,,,,f,,f,,f,,x,,,,,,,x,f,,,,f,x,,f,,f,
+Symphyotrichum sp.?,Aster species,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,x,,,,,x,x,,
+Symphyotrichum boreale,Northern bog aster,Forb,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Symphyotrichum cordifolium,Heart-leaved aster,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,x,,
+Symphyotrichum firmum,Shining aster,Forb,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Symphyotrichum laeve,Smooth Brome American-Aster / Smooth Brome Blue Aster,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,x,,,,,,,,,,,,,,,x,,,,,x,,
+Symphyotrichum lanceolatum,Panicled Aster,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,
+Symphyotrichum  lateriflorum,Calico Aster,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f
+Symphyotrichum novae-angliae,New England aster,Forb,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Symphyotrichum novi-belgii,New York aster,s,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,f,,x,,,,,,f,,,,,f,,f,f,,f,,,,,x,,f
+Symphyotrichum pilosum,Hairy white oldfield aster,Forb,,,,,,,,,,,,,,,,,,,,,f,,,,,x,,,,,,,,,,x,,,,,,,,,f,,,,,,,,,,
+Symphyotrichum puniceum,Swamp white aster,Forb,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,f,f,,,,f,,,,x,,,,,,,,,,,,,,,f,,
+Symphyotrichum racemosum,Small white aster,Forb,,,,,,,,,,,,,,,,,,,,,f,x,x,,f,f,,f,x,,,x,,f,,x,f,x,x,,,f,x,,f,f,f,,,,,,,,f
+Symplocarpus foetidus,Eastern Skunk Cabbage,Forb,,x,,,x,x,x,x,x,x,x,x,x,,x,x,,,,,,,,,,,x,,,,,x,,,,,,,,,,,,,,,,,,,,,,,
+Tanacetum vulgare,"Tansy, common",Forb,,,,,,,,,,x,,,,x,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f
+Taraxacum officinale,Common Dandelion,Forb,,,,f,,x,x,,,,f,,,x,f,x,f,x,f,x,x,x,x,x,,x,f,f,x,f,x,x,f,x,f,x,x,,x,f,x,f,x,,x,f,x,,x,x,x,f,x,f,f
+Thalictrum pubescens,Tall Meadow rue,Forb,,x,,,,x,,x,,,,x,,,f,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Thelypteris palustris,Marsh Fern,Forb,,x,,,x,,,x,x,,,,x,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,
+Thlaspi arvense,Field Penny cress,Forb,,,,,,,,,,,,,,,,,,,,,x,,,,,,x,,,,,,,,,,,,,,,,,,,,,,x,,,,,,
+Tilia americana (mature),American Basswood (mature),Wood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,
+Toxicodendron radicans,Poison Ivy,Wood,,x,,,x,x,f,x,x,,x,,x,,x,x,x,x,,x,x,x,x,x,x,x,,x,x,x,x,,,,,x,x,,x,x,x,x,x,,x,x,x,,,x,,,x,x,
+Tragopogon pratensis,Meadow salsify / Goat's beard,Forb,,,,f,,,,,,,,,,,,,,f,,,,,f,f,,f,f,,,,,x,,,,f,,,f,f,,,,,,,,,,,,,,,
+Trichostema dichotomum,Blue curls,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,
+Tridens flavus,Purpletop Tridens,Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,
+Trifolium aureum,Palmate / Large Hop Clover,Forb,,,,,,,,,,,,,,,f,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Trifolium campestre,Hops Trefoil,Forb,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,f,x,,,,,,,
+Trifolium dubium,Lesser trefoil,Forb,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,,,,,,,,,,
+Trifolium hybridum,Alsike Clover,Forb,,,,f,,,,,,x,,,,,,,f,,x,,,,,,,,f,,,,,,,,f,,,,,,,,,x,,,,,,,x,,,x,
+Trifolium incarnatum,Crimson Clover,Forb,,,,,,,,,,,,,,,f,,,,,,,,,,,,,f,,x,f,,,,,,,,,,,,,,,,,,,,,,x,,
+Trifolium pratense,Purple / Red Clover,Forb,,,,f,f,x,,,f,x,,,,f,f,f,f,f,f,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,x,f,,f,f,f,f,f,f,f,f,x,x,f,f,f,x,,f,x
+Trifolium repens,White Clover,Forb,,,,f,f,f,,,,x,,,,x,f,f,f,f,,,,f,f,,f,,f,f,f,f,f,,f,f,f,,f,,,f,,x,f,,f,f,,f,f,,f,,f,f,f
+Tsuga canadensis,Eastern Hemlock,Wood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,
+Turritis glabra,Tower Mustard,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,,,,,x,,,,,,,,,,,,,,,
+Typha latifolia,Broad-leaved Cat-tail,Grass,,x,,,f,x,f,f,f,x,x,f,f,,f,x,,,,x,,,,,,,,,x,,x,,x,,,,,x,,,,,,x,,,x,,,,,x,x,,x
+Urtica dioica,Stinging Nettle,Forb,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Vaccinium angustifolium,Lowbush Blueberry,Wood,,x,,,,,,f,,x,,,,,f,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Vaccinium corymbosum,Highbush Blueberry,Wood,,x,,,,,,,,,,,,,f,,,,,,,,,,,,,x,,x,,,,,,,,,,,,,,,,x,,,,,,,,,
+Vaccinium fuscatum,Black Highbush Blueberry,Wood,,x,,,,,,x,,x,,,,,f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Verbascum thapsus,Mullein,Forb,,,,,,,,,,x,,,,,,,,,,,f,,x,,f,f,,,,x,,,,f,f,f,,,,,,x,,,,,,,,,,,,,
+Verbena hastata,Blue Vervain,Forb,,x,,,,,,,,,,x,,f,x,f,,x,,f,,f,f,,f,f,,x,x,,x,f,,f,,f,,f,f,,,x,x,,f,,f,f,,,,,,,f
+Verbena urticifolia,White Vervain,Forb,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,
+Veronica arvensis,Corn Speedwell,Forb,,,,,,,,,,x,,,,,,,,,x,,,,,,,,f,,,,,,,,,,,,,,,,,,,x,,,f,x,f,,,x,
+Veronica officinalis,Heath Speedwell,Forb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,x,,x,,,x,,,x,,,,,,,,,,
+Viburnum dentatum,Smooth Brome Arrowwood,Wood,,x,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,
+Vicia cracca,Bird / Tufted Vetch,Forb,,,,f,f,f,f,f,f,x,f,f,f,f,f,f,f,f,,f,f,f,f,f,f,f,f,f,f,x,f,f,f,x,f,f,x,f,f,x,f,f,f,f,f,x,f,f,f,f,f,f,x,,x
+Vicia sativa,Common / Roundleaf Vetch,Forb,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Vicia tetrasperma,Four-seeded Vetch,Forb,,,,f,,f,,,f,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,,,,,,
+Vicia villosa,Hairy Vetch,Forb,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Viola arvensis,European Field Pansy,Forb,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Viola sororia,Common Violet,Forb,,,,,,,,,,,,,,x,,x,,,,,,,,,,x,,,,,,,,,,,x,x,,,,,,,,,,,,,,,,,
+Vitis aestivalis,Summer Grape,Wood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,x,,,,,,,,,,,,,
+Vitis labrusca,Fox Grape,Wood,,x,,,,x,,,,x,,,,,x,,,,,,x,,,,,,,,x,,,,x,,,,,,x,,,x,,,,,x,,,,,,,,
+Vitis riparia,River Grape,Wood,,x,,,f,x,x,,,x,,,,,,,,,,,,x,,x,x,x,,x,x,,,,,,x,,,,,,,x,x,,x,,,,x,,,,,x,x
+,Unknown Grass 1,Grass,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Unknown Grass 2,Grass,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Unknown Grass 3,Grass,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Unknown Grass 4,Grass,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Unknown Moss,moss,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,x
