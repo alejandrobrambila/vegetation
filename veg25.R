@@ -28,7 +28,7 @@ vegplot25<-vegplots%>%
 mutate(invasive_forb=ifelse(is.na(invasive_forb), 0, invasive_forb))%>%
 mutate(invasive_grass=ifelse(is.na(invasive_grass), 0, invasive_grass))%>%
 
-  mutate(invasive=woody_invasive+invasive_forb+invasive_grass)%>%
+  mutate(invasive=woody_inclusive+invasive_forb+invasive_grass)%>%
   group_by(Field_2025, `ELU Name`, Month)%>%
   summarize(avg_forb=mean(forb_inclusive), 
             avg_flowering=mean(flowering_forb), 
@@ -37,6 +37,35 @@ mutate(invasive_grass=ifelse(is.na(invasive_grass), 0, invasive_grass))%>%
             avg_woody=mean(woody_inclusive),
             avg_invasive=mean(woody_invasive+invasive_forb+invasive_grass))%>%
   mutate(Field=Field_2025)
+
+##new for invasives cover
+invasives25 <- vegplots %>%
+  mutate(Date = mdy(Date)) %>%
+  mutate(
+    Year = year(Date),
+    Month = month(Date),
+    woody_inclusive = ifelse(is.na(woody_inclusive), 0, woody_inclusive),
+    invasive_forb   = ifelse(is.na(invasive_forb), 0, invasive_forb),
+    invasive_grass  = ifelse(is.na(invasive_grass), 0, invasive_grass)
+  ) %>%
+  filter(Year == 2025) %>%
+  mutate(
+    invasive = woody_inclusive + invasive_forb + invasive_grass
+  ) %>%
+  group_by(Field_2025, `ELU Name`, Month) %>%
+  summarize(
+    avg_inv_forb   = mean(invasive_forb),
+    avg_inv_grass  = mean(invasive_grass),
+    avg_inv_woody  = mean(woody_inclusive),
+    .groups = "drop"
+  ) %>%
+  mutate(
+    avg_total_invasive = avg_inv_forb + avg_inv_grass + avg_inv_woody,
+    name_bore = Field_2025)
+
+#write csv for export
+write.csv(invasives25, "invasives25")
+
 
 ggplot(vegplot25, aes(reorder(Field_2025, -avg_forb), avg_forb)) + geom_point()+
   theme(axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1))
