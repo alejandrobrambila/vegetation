@@ -1,54 +1,54 @@
-name_bore,ELU Name,Month,avg_invasive_grass,avg_invasive_forbs,avg_invasive_woody,avg_invasive
-Barberry Woods,NA,7,0,0,69.5,69.5
-Briar,NA,6,0.45454545454545453,0,0,0.45454545454545453
-Broad Meadow,Broad Meadow,6,41.5,6.75,13.5,61.75
-Bull,Steer Barn Meadow,9,12.75,2.05,0.5,15.3
-Drainage,Drainage Lot South,5,0,0,0.6,0.6
-Drainage,Drainage Lot South,9,24.5,1,3.25,28.75
-GP1A,Great Pasture,5,0,0.26285714285714284,0.05238095238095238,0.31523809523809526
-GP1B,Great Pasture,6,5,0.35,5.5,10.85
-GP2A,Great Pasture,6,5.285714285714286,4.190476190476191,4.285714285714286,13.761904761904763
-GP2B,Great Pasture,6,0,0,1.2380952380952381,1.2380952380952381
-GP3,Great Pasture,7,0,0,7.25,7.25
-GP4A,Great Pasture,8,0,0,12.35,12.35
-GP4B,Great Pasture,8,0,3.272727272727273,4.545454545454546,7.818181818181818
-GP4C,Great Pasture,8,0,0,15.25,15.25
-GP5A,Great Pasture,8,3.75,2.55,4,10.3
-GP5B,Great Pasture,7,1,0.75,10.65,12.4
-GP5C,Great Pasture,7,14.25,1.6,4,19.85
-GP5D,Great Pasture,7,0,0,10.9,10.9
-GP6A,Great Pasture,6,3.75,0,0.5,4.25
-GP6B,Great Pasture,7,7.647058823529412,1.1764705882352942,0,8.823529411764707
-GP6C,Great Pasture,9,4.05,0.1,5.75,9.9
-GP7,Great Pasture,9,0,3.75,1.55,5.3
-GP7A,Great Pasture,9,0,23.4,22.5,45.9
-GP8A,Great Pasture West,9,0,1.5625,10.625,12.1875
-GP8B,Great Pasture West,8,0,0,2.85,2.85
-GP8C,Great Pasture West,6,5,4,3.4,12.4
-Horse,Horse Field Upper,6,6.05,0.75,0,6.8
-Jimmy's Wet Meadow,Jimmy's Wet Meadow,6,21,7.25,26.75,55
-Lamson Hill,Lamson Field South,6,1,0,0.05,1.05
-Lamson Middle,NA,6,14.523809523809524,5.9523809523809526,0.7142857142857143,21.19047619047619
-Lamson North,NA,6,0,0,NA,NA
-Leo's,NA,6,0,0.05,NA,NA
-Long Causeway,Long Causeway Field,6,71.75,0.5,0.05,72.3
-Long Meadow,Long Meadow,6,4.25,6.35,14.75,25.35
-Lower Barberry,Lower Barberry Hill,6,7,1.7,0,8.7
-Lower Sunset,Sunset Meadow,11,7.75,0,0.25,8
-Lower Triangle,NA,9,17.083333333333332,0,0,17.083333333333332
-Lower Underhill,Underhill Lower,7,27.272727272727273,9.818181818181818,0.7272727272727273,37.81818181818182
-POW West,NA,10,0,0,0,0
-Plains,NA,5,0,0,0,0
-Plains Woods North,Plains Woods North,6,38.75,27.05,40.25,106.05
-Playground,NA,6,0,0,0,0
-Playground Pond,Playground Pond,6,38.3,22.55,48.25,109.1
-Pond,Horse Field South,6,56.25,5.55,0,61.8
-Sunset Field,NA,6,0,0,0,0
-Sunset Hill,Sunset Hill,6,0,0,0,0
-Underhill,NA,8,13.55,0.75,25.25,39.55
-Underhill Wet Meadow,Underhill Wet Meadow,8,28.55,7.15,0.5,36.2
-Upper Triangle,NA,9,3.75,0,0.35,4.1
-Williams 1A,NA,10,3,0,0,3
-Williams Central,Williams Central,6,43.5,7,0.3,50.8
-Williams West,NA,10,19.5,0,0.25,19.75
-Wilson,Wilson's Field,6,2.142857142857143,0.7142857142857143,1,3.857142857142857
+"","Field_2025","ELU Name","Month","avg_inv_forb","avg_inv_grass","avg_inv_woody","avg_total_invasive","name_bore"
+"1","Barberry Woods",NA,7,0,0,69.5,69.5,"Barberry Woods"
+"2","Briar",NA,6,0,0.454545454545455,0,0.454545454545455,"Briar"
+"3","Broad Meadow","Broad Meadow",6,6.75,41.5,13.5,61.75,"Broad Meadow"
+"4","Bull","Steer Barn Meadow",9,2.05,12.75,0.5,15.3,"Bull"
+"5","Drainage","Drainage Lot South",5,0,0,0.6,0.6,"Drainage"
+"6","Drainage","Drainage Lot South",9,1,24.5,3.25,28.75,"Drainage"
+"7","GP1A","Great Pasture",5,0.262857142857143,0,0.0523809523809524,0.315238095238095,"GP1A"
+"8","GP1B","Great Pasture",6,0.35,5,5.5,10.85,"GP1B"
+"9","GP2A","Great Pasture",6,4.19047619047619,5.28571428571429,4.28571428571429,13.7619047619048,"GP2A"
+"10","GP2B","Great Pasture",6,0,0,1.23809523809524,1.23809523809524,"GP2B"
+"11","GP3","Great Pasture",7,0,0,7.25,7.25,"GP3"
+"12","GP4A","Great Pasture",8,0,0,12.35,12.35,"GP4A"
+"13","GP4B","Great Pasture",8,3.27272727272727,0,4.54545454545455,7.81818181818182,"GP4B"
+"14","GP4C","Great Pasture",8,0,0,15.25,15.25,"GP4C"
+"15","GP5A","Great Pasture",8,2.55,3.75,4,10.3,"GP5A"
+"16","GP5B","Great Pasture",7,0.75,1,10.65,12.4,"GP5B"
+"17","GP5C","Great Pasture",7,1.6,14.25,4,19.85,"GP5C"
+"18","GP5D","Great Pasture",7,0,0,10.9,10.9,"GP5D"
+"19","GP6A","Great Pasture",6,0,3.75,0.5,4.25,"GP6A"
+"20","GP6B","Great Pasture",7,1.17647058823529,7.64705882352941,0,8.82352941176471,"GP6B"
+"21","GP6C","Great Pasture",9,0.1,4.05,5.75,9.9,"GP6C"
+"22","GP7","Great Pasture",9,3.75,0,1.55,5.3,"GP7"
+"23","GP7A","Great Pasture",9,23.4,0,22.5,45.9,"GP7A"
+"24","GP8A","Great Pasture West",9,1.5625,0,10.625,12.1875,"GP8A"
+"25","GP8B","Great Pasture West",8,0,0,2.85,2.85,"GP8B"
+"26","GP8C","Great Pasture West",6,4,5,3.4,12.4,"GP8C"
+"27","Horse","Horse Field Upper",6,0.75,6.05,0,6.8,"Horse"
+"28","Jimmy's Wet Meadow","Jimmy's Wet Meadow",6,7.25,21,26.75,55,"Jimmy's Wet Meadow"
+"29","Lamson Hill","Lamson Field South",6,0,1,0.05,1.05,"Lamson Hill"
+"30","Lamson Middle",NA,6,5.95238095238095,14.5238095238095,0.714285714285714,21.1904761904762,"Lamson Middle"
+"31","Lamson North",NA,6,0,0,0,0,"Lamson North"
+"32","Leo's",NA,6,0.05,0,0,0.05,"Leo's"
+"33","Long Causeway","Long Causeway Field",6,0.5,71.75,0.05,72.3,"Long Causeway"
+"34","Long Meadow","Long Meadow",6,6.35,4.25,14.75,25.35,"Long Meadow"
+"35","Lower Barberry","Lower Barberry Hill",6,1.7,7,0,8.7,"Lower Barberry"
+"36","Lower Sunset","Sunset Meadow",11,0,7.75,0.25,8,"Lower Sunset"
+"37","Lower Triangle",NA,9,0,17.0833333333333,0,17.0833333333333,"Lower Triangle"
+"38","Lower Underhill","Underhill Lower",7,9.81818181818182,27.2727272727273,0.727272727272727,37.8181818181818,"Lower Underhill"
+"39","POW West",NA,10,0,0,0,0,"POW West"
+"40","Plains",NA,5,0,0,0,0,"Plains"
+"41","Plains Woods North","Plains Woods North",6,27.05,38.75,40.25,106.05,"Plains Woods North"
+"42","Playground",NA,6,0,0,0,0,"Playground"
+"43","Playground Pond","Playground Pond",6,22.55,38.3,48.25,109.1,"Playground Pond"
+"44","Pond","Horse Field South",6,5.55,56.25,0,61.8,"Pond"
+"45","Sunset Field",NA,6,0,0,0,0,"Sunset Field"
+"46","Sunset Hill","Sunset Hill",6,0,0,0,0,"Sunset Hill"
+"47","Underhill",NA,8,0.75,13.55,25.25,39.55,"Underhill"
+"48","Underhill Wet Meadow","Underhill Wet Meadow",8,7.15,28.55,0.5,36.2,"Underhill Wet Meadow"
+"49","Upper Triangle",NA,9,0,3.75,0.35,4.1,"Upper Triangle"
+"50","Williams 1A",NA,10,0,3,0,3,"Williams 1A"
+"51","Williams Central","Williams Central",6,7,43.5,0.3,50.8,"Williams Central"
+"52","Williams West",NA,10,0,19.5,0.25,19.75,"Williams West"
+"53","Wilson","Wilson's Field",6,0.714285714285714,2.14285714285714,1,3.85714285714286,"Wilson"
