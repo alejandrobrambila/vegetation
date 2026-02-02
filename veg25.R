@@ -38,6 +38,8 @@ mutate(invasive_grass=ifelse(is.na(invasive_grass), 0, invasive_grass))%>%
             avg_invasive=mean(woody_invasive+invasive_forb+invasive_grass))%>%
   mutate(Field=Field_2025)
 
+#write.csv(vegplot25, "vegplot25.csv")
+
 ##new for invasives cover
 invasives25 <- vegplots %>%
   mutate(Date = mdy(Date)) %>%
@@ -61,10 +63,10 @@ invasives25 <- vegplots %>%
   ) %>%
   mutate(
     avg_total_invasive = avg_inv_forb + avg_inv_grass + avg_inv_woody,
-    name_bore = Field_2025)
+    Field = Field_2025)
 
 #write csv for export
-write.csv(invasives25, "invasives25.csv")
+#write.csv(invasives25, "invasives25.csv")
 
 
 ggplot(vegplot25, aes(reorder(Field_2025, -avg_forb), avg_forb)) + geom_point()+
