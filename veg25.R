@@ -110,6 +110,8 @@ species_long<-species%>%
             total_flowering=sum(flowering))%>%
   left_join(select(vegplot25, Field, Month))
 
+#write
+#write.csv(species_long, "species_long.csv")
 #total species by field
 ggplot(species_long, aes(reorder(Field, -total_sp), total_sp)) +geom_point()+
   theme(axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1))
